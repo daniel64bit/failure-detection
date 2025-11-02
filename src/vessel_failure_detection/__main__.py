@@ -1,5 +1,5 @@
-"""vessel-failure-detection file for ensuring the package is executable
-as `vessel-failure-detection` and `python -m vessel_failure_detection`
+"""oge-failure-detection file for ensuring the package is executable
+as `oge-failure-detection` and `python -m oge-failure-detection`
 """
 import sys
 from pathlib import Path

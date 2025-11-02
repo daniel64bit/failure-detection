@@ -36,7 +36,7 @@ loggers:
   kedro:
     level: INFO
 
-  vessel_failure_detection:
+  oge-failure-detection:
     level: INFO
 
 root:
